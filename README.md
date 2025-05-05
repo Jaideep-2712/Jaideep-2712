@@ -13,7 +13,7 @@
   <h4 align="left"> Jaideep Sharma 
 
     
-I With hands-on experience in Business Excellence at JBM Group, I’ve managed Ratings, Dashboards, Performance Benchmarking, and 6S Audits across 70+ plants—honing my skills in data visualization and analytics. My expertise in Advanced Excel enables me to streamline workflows, automate processes, and extract meaningful insights. Now, I’m expanding my analytical toolkit, sharpening my skills in Python, Power BI, and SQL to tackle complex data challenges. I’m on a journey to transform raw data into impactful insights and would love to connect with professionals who share the same drive for analytics, business intelligence, and innovation!</h4>
+I have hands-on experience in Business Excellence at JBM Group, I’ve managed Ratings, Dashboards, Performance Benchmarking, and 6S Audits across 70+ plants—honing my skills in data visualization and analytics. My expertise in Advanced Excel enables me to streamline workflows, automate processes, and extract meaningful insights. Now, I’m expanding my analytical toolkit, sharpening my skills in Python, Power BI, and SQL to tackle complex data challenges. I’m on a journey to transform raw data into impactful insights and would love to connect with professionals who share the same drive for analytics, business intelligence, and innovation!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaideep-2712&label=Profile%20views&color=0e75b6&style=flat" alt="jaideep-2712" /> </p>
 
