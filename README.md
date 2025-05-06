@@ -47,6 +47,12 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 </p>
 
 <p align="center">
